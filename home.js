@@ -1,5 +1,5 @@
 
-var barsCount = 384;
+var barsCount = 256;
 var heights = [];
 
 var sorted = false;
